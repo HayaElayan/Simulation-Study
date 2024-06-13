@@ -18,7 +18,11 @@ Simulation study notes based on the following resources:
 
 
 
+
+
+
 Examples of Simulation studies for Clinical prediction modelling:
+
 
 • https://journals.sagepub.com/doi/full/10.1177/09622802231165001
 
@@ -29,6 +33,8 @@ Examples of Simulation studies for Clinical prediction modelling:
 • https://onlinelibrary.wiley.com/doi/full/10.1002/sim.7586
 
 • https://academic.oup.com/jamia/article-abstract/26/12/1448/5545426
+
+
 
 
 Codes:
